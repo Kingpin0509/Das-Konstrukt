@@ -1,0 +1,51 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R2 Graphics (ID=0x9852)
+    Vendor:   ATI
+    VRAM:     1010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.278 seconds
+desktop: 1680x1050 60Hz; virtual: 3046x1050 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: V:\PixelTowerDefense\EXE\ptddaskonstrukt_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1228 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.279997 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 722.
+Total: 1.780314 ms (FindLiveObjects: 0.194924 ms CreateObjectMapping: 0.054715 ms MarkObjects: 1.359687 ms  DeleteObjects: 0.166883 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+The tree Bottom-Right Tile Badlands Corner couldn't be instanced because the prefab contains no valid mesh renderer.
+ 
+(Filename:  Line: 153)
+
+UnloadTime: 4.641266 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 2152.
+Total: 3.544214 ms (FindLiveObjects: 0.530059 ms CreateObjectMapping: 0.108747 ms MarkObjects: 2.586004 ms  DeleteObjects: 0.317351 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.669232 ms
+
+Unloading 361 unused Assets to reduce memory usage. Loaded Objects now: 875.
+Total: 5.661715 ms (FindLiveObjects: 0.274262 ms CreateObjectMapping: 0.103959 ms MarkObjects: 1.852813 ms  DeleteObjects: 3.427259 ms)
+
